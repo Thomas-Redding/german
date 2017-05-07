@@ -1,0 +1,60 @@
+<table border=1>
+<tr><td colspan=2><center><b>Verb Preposition Complements (Idioms)</b></center>
+<tr><td>Angst haben vor (+ dat.)<td>to be affraid of
+<tr><td>bitten um<td>to ask for, request
+<tr><td>denken an (+ acc.)<td>to think of, about
+<tr><td>erinnern an (+ acc.)<td>to remind of
+<tr><td>erinnern sich an (+ acc.)<td>to remember
+<tr><td>hängen an (+dat.)<td>to hang on (something)
+<tr><td>hängen an (+ acc.)<td>to hang (something) on (something)
+<tr><td>klopfen an (+ acc.)<td>to knock on
+<tr><td>lachen über (+ acc.)<td>to laugh about
+<tr><td>lesen über (+ acc.)<td>to read about
+<tr><td>nachdenken über (+ acc.)<td>to think about
+<tr><td>reagieren auf (+ acc.)<td>to react to
+<tr><td>schreiben über (+ acc.)<td>to write about
+<tr><td>sich erholen von<td>to recover (from)
+<tr><td>sich erinnern an (+ acc.)<td>to remember
+<tr><td>sich freuen auf (+ acc.)<td>to look forward to
+<tr><td>sich gewöhnen an (+ acc.)<td>to get used to
+<tr><td>sich interessieren für<td>to be interested in
+<tr><td>sich konzentrieren auf (+ acc.)<td>to concentrate on
+<tr><td>sich kümmern um<td>to look after, take care of
+<tr><td>sich verlassen auf (+ acc.)<td>to rely on, count on
+<tr><td>sich wundern über (+ acc.)<td>to be surprised at
+<tr><td>sich freuen auf (+ acc.)<td>to look forward to
+<tr><td>sich gewöhnen an (+ acc.)<td>to get used to
+<tr><td>sich interessieren für (+ acc.)<td>to be interested in
+<tr><td>sich kümmern um<td>to look after; to take care of; to deal with
+<tr><td>sich ärgern über (+ acc.)<td>to get annoyed about
+<tr><td>sprechen über (+ acc.)<td>to talk about
+<tr><td>stecken in (+ acc.)<td>to place in
+<tr><td>studieren an (+ dat.)<td>to study at
+<tr><td>warten auf (+ acc.)<td>to wait for
+</table>
+
+<br><br>
+
+<table border=1>
+<tr><td colspan=2><center><b>Dative Verbs</b></center>
+<tr><td>antworten<td>to answer
+<tr><td>danken<td>to thank
+<tr><td>erlauben<td>to allow<tr><td>folgen<td>to follow<tr><td>gefallen<td>to please, appeal to<tr><td>gehören<td>to belong to (a person)
+<tr><td>glauben<td>to believe; to think
+<tr><td>gratulieren<td>to congratulate, wish (e.g. a happy birthday)<tr><td>helfen<td>to help<tr><td>schaden<td>to harm, damage
+<tr><td>verbieten<td>to forbid<tr><td>wehtun<td>to hurt
+<tr><td>zuhören<td>to listen (to)
+</table>
+
+<br><br>
+
+<table border=1>
+<tr><td colspan=2><center><b>Dative Reflexive Pronouns</b></center>
+<tr><td>sich etwas ansehen<td>to take a look at something
+<tr><td>sich etwas anziehen<td>to put something on
+<tr><td>sich die Haare kämmen<td>to comb one's hair
+<tr><td>sich etwas leisten können<td>to be able to afford something
+<tr><td>sich etwas überlegen<td>to consider, ponder, think something over
+<tr><td>sich etwas vorstellen<td>to imagine something
+<tr><td>sich die Zähne putzen<td>to brush one's teeth
+</table>

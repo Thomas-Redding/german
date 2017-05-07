@@ -1,0 +1,63 @@
+<table border=1>
+<tr><td rowspan=2><td colspan=2><center><b>Indicative (Indikativ)<td colspan=2><center><b>Subjunctive (Subjunktiv II)<td colspan=2><center><b>Passive
+<tr><td><center><b>English<td><center><b>German<td><center><b>English<td><center><b>German
+<td><center><b>English<td><center><b>German
+<tr><td rowspan=7><center>Perfect Past Tense<br>(Plusquamperfekt)<td>had had<td>hatte...gehabt
+<tr><td>had been<td>war...gewesen
+<tr><td>had made<td>hatte...gemacht<td><td><td>had been made<td>war...gemacht worden
+<tr><td>had seen<td>hatte...gesehen<td><td><td>had been seen<td>war...gesehen worden
+<tr><td>had run<td>war...gelaufen<td><td><td>had been run<td>war...gelaufen worden
+<tr><td>could have made<td>hatte...machen können<td><td><td>could have been made<td>hatte...gemacht werden können
+<tr><td>could had gone running<td>hatte...laufen gegangen
+<tr><td rowspan=7><center>Imperfect Past Tense<br>(Präteritum)<td>had<td>hatte
+<tr><td>was<td>war
+<tr><td>made<td>machte<td><td><td>was made<td>wurde...gemacht
+<tr><td>saw<td>sah<td><td><td>was seen<td>wurde...gesehen
+<tr><td>ran<td>lief<td><td><td>was run<td>wurde...gelaufen
+<tr><td>could make<td>konnte...machen<td><td><td>could be made<td>konnte...gemacht werden
+<tr><td>could go running<td>konnte...laufen gehen
+<tr><td rowspan=7><center>Perfect Present Tense<br>(Perfekt)<td>has had<td>hat...gehabt<sub>1</sub><td>would have had<td>hätte...gehabt
+<tr><td>has been<td>ist...gewesen<sub>1</sub><td>would have been<td>wäre...gewesen
+<tr><td>has made<td>hat...gemacht<td>would have made<td>hätte...gemacht<td>has been made<td>ist...gemacht worden
+<tr><td>has seen<td>hat...gesehen<td>would have seen<td>hätte...gesehen<td>has been seen<td>ist...gesehen worden
+<tr><td>has run<td>ist...gelaufen<td>would have run<td>wäre...gelaufen<td>has been run<td>ist...gelaufen worden
+<tr><td>has been able to make<td>hat...machen können<sub>1</sub><td>could make<td>hätte...machen können<td>can be made<td>hat...gemacht werden können
+<tr><td>has gone running<td>ist...laufen gegangen<td>would have gone running<td>wäre laufen gegangen
+<tr><td rowspan=7><center>Present Tense<br>(Präsens)<td>has<td>hat<td>would have<td>hätte
+<tr><td>is<td>ist<td>would be<td>wäre<td><td>
+<tr><td>makes<td>macht<td>would make<td>würde...machen<td>is made<td>wird...gemacht
+<tr><td>sees<td>sieht<td>would see<td>würde...sehen<td>is seen<td>wird...gesehen
+<tr><td>runs<td>läuft<td>would run<td>würde...laufen<td>is run<td>wird...gelaufen
+<tr><td>can make<td>kann...machen<td>could make<td>könnte...machen<td>can be made<td>kann...gemacht werden
+<tr><td>go running<td>geht...laufen<td>would go running<td>ginge<sub>2</sub>...laufen
+<tr><td rowspan=7><center>Future I<br>(Futur)<td>will have<td>wird...haben
+<tr><td>will be<td>wird...sein
+<tr><td>will make/be making<td>wird...machen<td><td><td>will be had<td>wird...gemacht werden
+<tr><td>will see/be seing<td>wird...sehen<td><td><td>will be seen<td>wird...gesehen werden
+<tr><td>will run/be running<td>wird...laufen<td><td><td>will be run<td>wird...gelaufen werden
+<tr><td>will be able to make<td>wird...machen können<td><td><td>will be able to be made<td>wird...gemacht werden können
+<tr><td>will go running<td>wird...laufen gehen
+<tr><td rowspan=7><center>Future II<br>(Futur perfekt)<td>will have had<td>wird...gehabt haben
+<tr><td>will have been<td>wird...gewesen sein<td><td>
+<tr><td>will have made<td>wird...gemacht haben
+<tr><td>will have seen<td>wird...gesehen haben
+<tr><td>will have run<td>wird...gelaufen sein
+<tr><td>will have been able to make<td>wird...machen können
+<tr><td>will have gone running<td>wird...gewesen werden
+</table>
+<br><br>
+<sup>1</sup>Germans rarely use the perfect past tense with some verbs including (but not limited to) haben, sein, and modal verbs. Instead, they use the imperfect past tense - even when speaking.
+<br>
+<sup>2</sup>A handful of verbs have their own subjunctive forms. These include:
+<table border=1>
+<tr><td>haben<td>hätte
+<tr><td>sein<td>wäre
+<tr><td>können<td>könnte
+<tr><td>mögen<td>möchte
+<tr><td>dürfen<td>dürfte
+<tr><td>sollen<td>sollte
+<tr><td>wollen<td>wollte
+<tr><td>kommen<td>käm
+<tr><td>gehen<td>ging
+<tr><td>wissen<td>wüsste
+</table>

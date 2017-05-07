@@ -1,0 +1,56 @@
+<table border=1>
+<tr><td colspan=3><center><b>Comparative Adjectives</b></center>
+<tr><td>_____<td>Ich laufe genauso schnell wie du.<td>I run just as quickly as you.
+<tr><td>_____<td>Ich laufe nicht so schnell wie du.<td>I run not as quickly as you.
+<tr><td>_____+er<td>Ich laufe immer schneller.<td>I run quicker and quicker.<tr><td>_____+er+(adj. ending)<td>Ich laufe schneller als du.<td>I run quicker than you.<tr><td>_____+st+(adj. ending)<td>Ich bin der schnellste Läufer.<td>I am the fastest runner.
+<tr><td>_____+(e)sten<td>Ich laufe am schnellsten.<td>I run the quickest.
+</table>
+
+<br><br>
+
+<table border=1>
+<tr><td colspan=2><center><b>Selected Adjectives</b></center>
+<tr><td>wenige<td>few<tr><td>einige<td>some<tr><td>mehrere<td>several<tr><td>viele<td>many
+<tr><td>andere<td>other
+<tr><td>own<td>eigen
+<tr><td>various, different<td>verschieden
+</table>
+
+<br><br>
+
+<table border=1>
+<tr><td colspan=2><center><b>Question Words</b></center>
+<tr><td>wer<td>who
+<tr><td>was<td>what
+<tr><td>wann<td>when
+<tr><td>wo<td>where
+<tr><td>warum<td>why
+<tr><td>wie<td>how
+<tr><td>wohin<td>to where
+<tr><td>woher<td>from where
+</table>
+
+<br><br>
+
+<table border=1>
+<tr><td colspan=3><center><b>Da-Compounds</b></center>
+<tr><td>prep. begins with vowel<td>dar+prep.<td>prep.+that
+<tr><td>preps. does not<td>da+prep.<td>prep.+that
+<tr><td colspan=3><center><b>Wo-Compounds</b></center>
+<tr><td>prep. begins with vowel<td>wor+prep.<td>prep.+what/whom
+<tr><td>preps. does not<td>wo+prep.<td>prep.+what/whom
+</table>
+
+<br><br>
+
+<table border=1>
+<tr><td colspan=2><center><b>Portions</b></center>
+<tr><td>ein Glas Bier<td>a glass of beer<tr><td>drei Glas Bier<td>three glasses of beer<tr><td>eine Tasse Kaffee<td>a cup of coffee<tr><td>zwei Tassen Kaffee<td>two cups of coffee<tr><td>ein Liter Milch<td>a liter of milk<tr><td>zwei Liter Milch<td>two liters of milk<tr><td>eine Portion Pommes frites<td>an order of French fries<tr><td>zwei Portionen Pommes frites<td>two portions of French fries<tr><td>ein Kilo Kartoffeln<td>a kilo of potatoes<tr><td>zwei Kilo Kartoffeln<td>two kilos of potatoes<tr><td>ein Stück Brot<td>a piece of bread<tr><td>vier Stück Brot<td>four pieces of bread<tr><td>eine Flasche Wein<td>a bottle of wine<tr><td>drei Flaschen Wein<td>three bottles of wine
+</table>
+
+<br><br>
+
+<table border=1>
+<tr><td colspan=3><center><b>Cardinal Numbers</b></center>
+<tr><td>1st<td><b>erste<td rowspan=19><center>root<br>+<br>t<br>+<br>adj.ending</center><tr><td>2nd<td>zweite<tr><td>3rd<td><b>dritte<tr><td>4th<td>vierte<tr><td>4th<td>fünfte<tr><td>6th<td>sechste<tr><td>7th<td><b>siebte<tr><td>8th<td>achte<tr><td>9th<td>neunte<tr><td>10th<td>zehnte<tr><td>11th<td>elfte<tr><td>12th<td>zwölfte<tr><td>13th<td>dreizehnte<tr><td>14th<td>vierzehnte<tr><td>15th<td>fünfzehnte<tr><td>16th<td>sechzehnte<tr><td>17th<td>siebzehnte<tr><td>18th<td>achtzehnte<tr><td>19th<td>neunzehnte<tr><td>20th<td>zwanzigste<td rowspan=19><center>root<br>+<br>st<br>+<br>adj.ending</center><tr><td>21st<td>einundzwanzigste<tr><td>22nd<td>zweiundzwanzigste<tr><td>23rd<td>dreiundzwanzigste<tr><td>…<td>…<tr><td>30th<td>dreißigste<tr><td>40th<td>vierzigste<tr><td>100th<td>hunderste<tr><td>1000th<td>tausendste
+</table>

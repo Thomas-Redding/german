@@ -1,0 +1,43 @@
+<html>
+<head>
+<link rel="icon" type="image/png" href="favicon.png">
+
+<script>
+function Ajax(txt)
+{
+	if(window.XMLHttpRequest)
+	{
+		ajax = new XMLHttpRequest();
+	}
+	else
+	{
+		ajax = new ActiveXObject("Microsoft.XMLHTTP");
+	}
+	
+	ajax.onreadystatechange = function()
+	{
+		if(ajax.readyState==4)
+		{
+			document.getElementById("div").innerHTML = ajax.responseText;
+		}
+	}
+	ajax.open("GET",txt,true);
+	ajax.send();
+}
+
+</script>
+</head>
+<body>
+<a href="javascript:Ajax('Pronouns.txt')">Pronouns</a>
+ || <a href="javascript:Ajax('Word Order.txt')">Word Order</a>
+ || <a href="javascript:Ajax('Prepositions.txt')">Prep.</a>
+ || <a href="javascript:Ajax('Conjunctions.txt')">Conj.</a>
+ || <a href="javascript:Ajax('Tenses.txt')">Tenses</a>
+ || <a href="javascript:Ajax('Der Words.txt')">Der Words</a>
+ || <a href="javascript:Ajax('Adj Endings.txt')">Adj Endings</a>
+ || <a href="javascript:Ajax('Time.txt')">Time</a>
+ || <a href="javascript:Ajax('Verb Stuff.txt')">Verb Stuff</a>
+ || <a href="javascript:Ajax('Other.txt')">Other</a>
+<div id="div" style="overflow:scroll"></div>
+</body>
+</html>

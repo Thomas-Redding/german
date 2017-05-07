@@ -1,0 +1,27 @@
+<table border=1>
+<tr><td colspan=2><center><b>der-words
+<td colspan=2><b><center><b>ein-words
+<tr><td>der, das, die<td>the<td>ein<td>a, an
+<tr><td>diese-<td>this, these<td>kein<td>no, not a
+<tr><td>jed-<td>each, every<td colspan=2 rowspan=3>possessive pronouns
+<tr><td>welch-<td>which
+<tr><td>all-<td>all
+</table>
+<br><br>
+<table border=1>
+<tr><td colspan=5><b><center>der-word endings</b>
+<tr><td><td><b>masculine<td><b>neuter<td><b>feminine<td><b>plural
+<tr><td><b>nom.<td>dieser<td>dieses<td>diese<td>diese
+<tr><td><b>acc.<td>diesen<td>dieses<td>diese<td>diese
+<tr><td><b>dat.<td>diesem<td>diesem<td>dieser<td>diesen -n
+<tr><td><b>gen.<td>dieses -es<td>dieses -es<td>dieser<td>dieser
+</table>
+<br><br>
+<table border=1>
+<tr><td colspan=5><b><center>ein-word endings</b>
+<tr><td><td><b>masculine<td><b>neuter<td><b>feminine<td><b>plural
+<tr><td><b>nom.<td>ein<td>ein<td>eine<td>eine
+<tr><td><b>acc.<td>einen<td>ein<td>eine<td>eine
+<tr><td><b>dat.<td>einem<td>einem<td>einer<td>einen -n
+<tr><td><b>gen.<td>eines -es<td>eines -es<td>einer<td>einer
+</table>

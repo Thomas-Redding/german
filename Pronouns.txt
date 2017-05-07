@@ -1,0 +1,22 @@
+<table border=1>
+<tr><td><b>English<td><b>Nominative<td><b>Accusative<td><b>Dative<td><b>Genitive<td><b>Reflexive<td><b>Present<td><b>Past<td><b>Command
+<tr><td>I<td>ich<td>mich<td>mir<td>mein<td>mich/mir<td>-e<td>-te<td>
+<tr><td>we<td>wir<td>uns<td>uns<td>unser<td>uns<td>-en<td>-ten<td>wir-form
+<tr><td>you (inf sin)<td>du<td>dich<td>dir<td>dein<td>dich/dir<td>-st<td>-test<td>du-form minus “st”
+<tr><td>you (inf pl)<td>ihr<td>euch<td>euch<td>euer<td>euch<td>-t<td>-te<td>ihr-form
+<tr><td>you (formal)<td>Sie<td>Sie<td>Ihnen<td>Ihr<td>sich<td>-en<td>-ten<td>Sie-form
+<tr><td>he<td>er<td>ihn<td>ihm<td>sein<td>sich<td>-t<td>-te<td>
+<tr><td>she<td>sie<td>sie<td>ihr<td>ihr<td>sich<td>-t<td>-te<td>
+<tr><td>it<td>es<td>es<td>ihm<td>sein<td>sich<td>-t<td>-te<td>
+<tr><td>one<td>man<td>?<td>einem<td>?<td>sich<td>-t<td>-te<td>
+<tr><td>they<td>sie<td>sie<td>ihnen<td>ihre<td>sich<td>-t<td>-te<td>
+</table>
+<br><br>
+<table border=1>
+<tr><td colspan=5><b>Relative Pronouns</b>
+<tr><td><td><b>mas<td><b>neu<td><b>fem<td><b>plu
+<tr><td><b>nom<td>der<td>das<td>die<td>die
+<tr><td><b>acc<td>den<td>das<td>die<td>die
+<tr><td><b>dat<td>dem<td>dem<td>der<td>denen
+<tr><td><b>gen<td>desen<td>desen<td>deren<td>deren
+</table>

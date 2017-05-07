@@ -1,0 +1,52 @@
+<table border=1>
+<tr><td colspan=2><center><b>Dative Prepositions
+<tr><td>aus<td>out of; from (native country, city, or region)
+<tr><td>außer<td>except for; in addition to (besides)
+<tr><td>bei<td>in the home of; at
+<tr><td>mit<td>with
+<tr><td>nach<td>after; to (country, state, or city name, and in "nach Hause")
+<tr><td>seit<td>since (temporal)
+<tr><td>von<td>from; of; by
+<tr><td>zu<td>to (people and some locaitons)
+</table>
+
+<br><br>
+
+<table border=1>
+<tr><td colspan=2><center><b>Accusative Prepositions
+<tr><td>bis<td>until; by (a time)
+<tr><td>durch<td>through
+<tr><td>für<td>for
+<tr><td>gegen<td>against
+<tr><td>ohne<td>without
+<tr><td>um<td>around (the outside of); at (with times)
+</table>
+
+<br><br>
+
+<table border=1>
+<tr><td colspan=3><center><b>Two-Way Prepositions
+<tr><td><td>Wohin (acc.)<td>Wo (dat.)
+<tr><td>an<td>to, toward<td>at, alongside of
+<tr><td>auf<td>on, onto<td>on, on top of
+<tr><td>hinter<td>behind<td>behind
+<tr><td>in<sub>1</sub><td>into, in<td>in
+<tr><td>neben<td>beside, next to<td>beside, next to
+<tr><td>über<td>over, across<td>over, above
+<tr><td>unter<td>under<td>under, beneath
+<tr><td>vor<td>in front of<td>in front of
+<tr><td>zwischen<td>between<td>between
+</table>
+
+<br><br>
+
+<table border=1>
+<tr><td colspan=3><center><b>Special Prepositions
+<tr><td>entlang<td>along<td>(+acc) entlang; entlang (+dat)
+</table>
+
+<br><br>
+
+<ol>
+<li>when used with people, then they are going to a feminine/plural country or to a locations where they will sit down and spend more time
+</ol>

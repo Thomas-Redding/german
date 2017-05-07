@@ -1,0 +1,98 @@
+<table border=1><tr><td><h3>Order of Non-Verbs</h3>
+<ol>
+<li>Pronouns
+<ol>
+<li>Nominative
+<li>Reflexive
+<li>Accusative
+<li>Dative
+</ol>
+<li>Temporal Expressions
+<li>Nouns
+<ol>
+<li>Nominative
+<li>Dative
+<li>Accusative
+</ol>
+<li>Prepositional Phrases
+<ol>
+<li>Time
+<li>Manner
+<li>Place
+</ol>
+<li>Adverbs
+<ol>
+<li>Time
+<li>Manner
+<li>Place
+</ol>
+<li>Verbal Negation ("nicht")
+<li>Separable Prefix
+</ol>
+<h3>Verb Spots</h3>
+<ol>
+<li>Helping Verbs
+<li>Modals
+<li>Regular Verbs
+</ol>
+<h3>Independent Clauses</h3>
+<ol>
+<li>Subject
+<li>Verb 1
+<li>Non-Verbs
+<li>Verb 3
+<li>Verb 2
+</ol>
+<h3>Dependent Clause, Independent Clause</h3>
+<ol>
+<li>Conjunction
+<li>Non-Verbs
+<li>Verb 3
+<li>Verb 2
+<li>Verb 1
+<li>, Verb 1
+<li>Non-Verbs
+<li>Verb 3
+<li>Verb 2
+</ol>
+<td>
+<h3>Independent Clause, Dependent Clause</h3>
+<ol>
+<li>Subject
+<li>Verb 1
+<li>Non-Verbs
+<li>Verb 3
+<li>Verb 2
+<li>, Conjunction
+<li>Non-Verbs
+<li>Verb 3
+<li>Verb 2
+<li>Verb 1
+</ol>
+<h3>Relative Clauses</h3>
+<ol>
+<li>...Noun,
+<li>Preposition
+<li>Reflective Pronoun
+<li>Non-Verbs
+<li>Verb 3
+<li>Verb 2
+<li>Verb 1,
+<li>...
+</ol>
+<h3>Verb Questions</h3>
+<ol>
+<li>Verb 1
+<li>Non-Verbs
+<li>Verb 3
+<li>Verb 2
+</ol>
+<h3>Adverb Questions</h3>
+<ol>
+<li>Adverb (Question Word)
+<li>Verb 1
+<li>Non-Verbs
+<li>Verb 3
+<li>Verb 2
+</ol>
+</table>

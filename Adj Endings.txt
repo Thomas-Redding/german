@@ -1,0 +1,26 @@
+<table border=1>
+<tr><td colspan=5><b><center>ein-word + adjective endings</b>
+<tr><td><td><b>masculine<td><b>neuter<td><b>feminine<td><b>plural
+<tr><td><b>nom.<td>-er<td>-es<td>-e<td>-en
+<tr><td><b>acc.<td>-en<td>-es<td>-e<td>-en
+<tr><td><b>dat.<td>-en<td>-en<td>-en<td>-en
+<tr><td><b>gen.<td>-en<td>-en<td>-en<td>-en
+</table>
+<br><br>
+<table border=1>
+<tr><td colspan=5><b><center>der-word + adjective endings</b>
+<tr><td><td><b>masculine<td><b>neuter<td><b>feminine<td><b>plural
+<tr><td><b>nom.<td>-e<td>-e<td>-e<td>-en
+<tr><td><b>acc.<td>-en<td>-e<td>-e<td>-en
+<tr><td><b>dat.<td>-en<td>-en<td>-en<td>-en
+<tr><td><b>gen.<td>-en<td>-en<td>-en<td>-en
+</table>
+<br><br>
+<table border=1>
+<tr><td colspan=5><b><center>adjective endings</b>
+<tr><td><td><b>masculine<td><b>neuter<td><b>feminine<td><b>plural
+<tr><td><b>nom.<td>-er<td>-es<td>-e<td>-e
+<tr><td><b>acc.<td>-en<td>-es<td>-e<td>-e
+<tr><td><b>dat.<td>-em<td>-em<td>-er<td>-en
+<tr><td><b>gen.<td>-en<td>-en<td>-er<td>-er
+</table>

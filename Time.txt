@@ -1,0 +1,50 @@
+<table border=1>
+<tr><td colspan=2><center><b>Equivalents of When</b></center>
+<tr><td>als<td>when (in the past)<tr><td>wenn<td>when (in present or future); if<tr><td>wann<td>when? at what time?
+</table>
+
+<br><br>
+
+<table border=1>
+<tr><td colspan=2><center><b>Decades</b></center>
+<tr><td>die 20er-Jahre<td>the 20s<tr><td>die zwanziger-Jahre<td>the twenties<tr><td>aus den 20er-Jahren<td>from the 20s<tr><td>in den 20-er Jahren<td>in the 20s
+</table>
+
+<br><br>
+
+<table border=1>
+<tr><td colspan=5><center><b>Days
+<tr><td>vorgestern<td>two days ago
+<tr><td>gestern<td>yesterday
+<tr><td>heute<td>today
+<tr><td>morgen<td>tomorrow
+<tr><td>übermorgen<td>the day after tomorrow
+</table>
+
+<br><br>
+
+<table border=1>
+<tr><td colspan=2><center><b>Time</b></center>
+<tr><td>halb sieben<td>6:30
+<tr><td>viertel vor sieben<td>6:45
+<tr><td>zehn vor sieben<td>6:50
+<tr><td>sieben Uhr<td>7:00
+<tr><td>zehn nach sieben<td>7:10
+<tr><td>viertel nach sieben<td>7:15
+</table>
+
+<br><br>
+
+<table border=1>
+<tr><td colspan=2><center><b>Temporal Expressions<sub>1</sub></b></center>
+<tr><td>I ate an hour ago.<td>Ich habe vor einer Stunde gegessen.
+<tr><td>I ate for an hour. (and have stopped)<td>Ich habe eine Stunde gegessen.
+<tr><td>I ate for an hour. (and will continue to)<td>Ich esse schon eine Stunde. <br> Ich esse seit einer Stunde.
+<tr><td>I hope you can stay for a long time.<td>Ich hoffe, dass du lange bleiben kannst.<br>(continuing into the future)
+<tr><td>I have lived here for a long time.<td>Ich wohne schon lange hier.<br>Ich wohne seit langem hier.<br>(continuing from the past)
+<tr><td>I will eat in an hour.<td>Ich esse in einer Stunde.</td>
+<tr><td>I will eat until 1 o'clock.<td>Ich esse bis ein Uhr.
+</table>
+<ol>
+<li>"Ich habe gegessen" and "Ich aß" have the <u>exact</u> same meaning in German.
+</ol>

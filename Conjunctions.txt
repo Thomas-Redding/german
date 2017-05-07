@@ -1,0 +1,30 @@
+<table border=1>
+<tr><td colspan=2><center><b>Coordinating Conjunctions
+<tr><td>aber<td>but
+<tr><td>denn<td>for, because
+<tr><td>oder<td>or
+<tr><td>und<td>and
+</table>
+<br><br>
+<table border=1>
+<tr><td colspan=2><center><b>Correlative Conjunctions<br>(act like Coordinating conjunctions)
+<tr><td>entweder..., oder...<td>either..., or...
+<tr><td>nicht..., sondern...<td>not..., but...
+<tr><td>weder..., noch...<td>neither..., nor...
+</table>
+<br><br>
+<table border=1>
+<tr><td colspan=2><center><b>Subordinate Conjunctions
+<tr><td>als<td>when (in past tenses); than, as (after comparative)
+<tr><td>bevor<td>before
+<tr><td>bis<td>until
+<tr><td>da<td>since (causal, not temporal)
+<tr><td>damit<td>so that
+<tr><td>dass<td>that
+<tr><td>nachdem<td>after
+<tr><td>ob<td>whether
+<tr><td>obwohl<td>although
+<tr><td>weil<td>because
+<tr><td>wenn<td>if, whenever (in the present or future)
+</table>
+<br><br>
